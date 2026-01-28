@@ -3,7 +3,7 @@
 Esta política de privacidade descreve como o **G3App** lida com as informações dos usuários.
 
 ## 1. Coleta de Dados Pessoais
-O G3 App foi desenvolvido para ser uma ferramenta de produtividade offline. 
+O G3App foi desenvolvido para ser uma ferramenta de produtividade offline. 
 **Nós não coletamos, não armazenamos e não compartilhamos nenhum dado pessoal identificável**, como nome, e-mail, número de telefone ou localização.
 
 ## 2. Serviços de Terceiros (Anúncios)
