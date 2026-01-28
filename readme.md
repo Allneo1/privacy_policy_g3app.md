@@ -1,4 +1,4 @@
-# Política de Privacidade - G3App
+# Política de Privacidade - G3App 
 
 Esta política de privacidade descreve como o **G3App** lida com as informações dos usuários.
 
