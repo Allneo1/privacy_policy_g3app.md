@@ -17,4 +17,4 @@ O aplicativo solicita apenas acesso à **Internet**, necessário exclusivamente 
 Esta política pode ser atualizada ocasionalmente. O uso continuado do app após alterações constitui sua aceitação dos termos.
 
 ## 5. Contato
-Dúvidas sobre esta política? Entre em contato através do e-mail: allanthiago2612@gmail.com.
+Dúvidas sobre esta política? Entre em contato através do e-mail: balttechnologia@gmail.com.
